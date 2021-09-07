@@ -1,2 +1,2 @@
-# DSA-Learning
-This file contains DSA.
+#Competative Programming
+The repo contains my cp submissions of diff contest platforms
